@@ -3,8 +3,8 @@
 La investigación compara el desempeño de modelos clásicos de aprendizaje supervisado, específicamente **Support Vector Machines (SVM)** y **XGBoost**, con arquitecturas de **Redes Neuronales Convolucionales (CNN)**, evaluando su capacidad para resolver tareas de clasificación multiclase en condiciones reales.
 
 Integrantes:
-- Adri Jhoanny Martinez ()
-- Johan Guzmán ()
+- Adri Jhoanny Martinez Murillo (A00400842)
+- Johan Stiven Guzmán (A00401480)
 - Karold Lizeth Mejia Orozco (A00401806)
 
 ---

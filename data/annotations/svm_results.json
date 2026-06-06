@@ -1,0 +1,26 @@
+{
+  "calidad": {
+    "best_params": {
+      "svm__kernel": "rbf",
+      "svm__gamma": 1,
+      "svm__C": 10
+    },
+    "best_cv_score": 0.8671165332964557,
+    "test_f1_macro": 0.9318670645140434,
+    "test_mcc": 0.8943909839595822,
+    "test_kappa": 0.8941834087580577,
+    "test_balanced_accuracy": 0.932237068449495
+  },
+  "tama\u00f1o": {
+    "best_params": {
+      "svm__kernel": "rbf",
+      "svm__gamma": 1,
+      "svm__C": 10
+    },
+    "best_cv_score": 0.9208082621848629,
+    "test_f1_macro": 0.9590327848400464,
+    "test_mcc": 0.9388974211697155,
+    "test_kappa": 0.9387409998840234,
+    "test_balanced_accuracy": 0.9593700084789526
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "calidad": {
+    "best_params": {
+      "subsample": 0.8,
+      "n_estimators": 300,
+      "min_child_weight": 5,
+      "max_depth": 9,
+      "learning_rate": 0.3,
+      "colsample_bytree": 1.0
+    },
+    "best_cv_score": 0.9466707888953891,
+    "test_f1_macro": 0.9493853690798896,
+    "test_mcc": 0.9218757537408246,
+    "test_kappa": 0.9217515449781094,
+    "test_balanced_accuracy": 0.949688932816965,
+    "test_auc_macro": 0.9929494672074273
+  },
+  "tama\u00f1o": {
+    "best_params": {
+      "subsample": 1.0,
+      "n_estimators": 200,
+      "min_child_weight": 5,
+      "max_depth": 9,
+      "learning_rate": 0.3,
+      "colsample_bytree": 0.8
+    },
+    "best_cv_score": 0.9807035436253967,
+    "test_f1_macro": 0.9812918570685385,
+    "test_mcc": 0.9720782854062777,
+    "test_kappa": 0.9720308748647579,
+    "test_balanced_accuracy": 0.9814125361717622,
+    "test_auc_macro": 0.9987422080298467
+  }
+}
